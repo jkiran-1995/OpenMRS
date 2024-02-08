@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-08T12:21:47 IST" name="OpenMRS" finished-at="2024-02-08T12:23:01 IST" duration-ms="73838">
+    <groups>
+    </groups>
+    <test started-at="2024-02-08T12:21:47 IST" name="OpenMRS Test" finished-at="2024-02-08T12:23:01 IST" duration-ms="73838">
+      <class name="openMRS.testCases.TC_LoginDDT_002">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:openMRS.testCases.TC_LoginDDT_002@105fece7]" started-at="2024-02-08T12:22:01 IST" name="setUp" finished-at="2024-02-08T12:22:03 IST" duration-ms="1168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest01(java.lang.String,java.lang.String)[pri:1, instance:openMRS.testCases.TC_LoginDDT_002@105fece7]" started-at="2024-02-08T12:22:04 IST" name="LoginTest01" data-provider="data" finished-at="2024-02-08T12:22:13 IST" duration-ms="9730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest01 -->
+        <test-method signature="LoginTest01(java.lang.String,java.lang.String)[pri:1, instance:openMRS.testCases.TC_LoginDDT_002@105fece7]" started-at="2024-02-08T12:22:13 IST" name="LoginTest01" data-provider="data" finished-at="2024-02-08T12:22:17 IST" duration-ms="3933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest01 -->
+        <test-method signature="LoginTest01(java.lang.String,java.lang.String)[pri:1, instance:openMRS.testCases.TC_LoginDDT_002@105fece7]" started-at="2024-02-08T12:22:17 IST" name="LoginTest01" data-provider="data" finished-at="2024-02-08T12:22:21 IST" duration-ms="3867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest01 -->
+        <test-method signature="LoginTest01(java.lang.String,java.lang.String)[pri:1, instance:openMRS.testCases.TC_LoginDDT_002@105fece7]" started-at="2024-02-08T12:22:21 IST" name="LoginTest01" data-provider="data" finished-at="2024-02-08T12:22:25 IST" duration-ms="4092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest01 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:openMRS.testCases.TC_LoginDDT_002@105fece7]" started-at="2024-02-08T12:22:25 IST" name="tearDown" finished-at="2024-02-08T12:22:26 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- openMRS.testCases.TC_LoginDDT_002 -->
+      <class name="openMRS.testCases.TC_IsolationWord_004">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:openMRS.testCases.TC_IsolationWord_004@482cd91f]" started-at="2024-02-08T12:22:44 IST" name="setUp" finished-at="2024-02-08T12:22:45 IST" duration-ms="1740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="IsolationWordTest()[pri:3, instance:openMRS.testCases.TC_IsolationWord_004@482cd91f]" started-at="2024-02-08T12:22:45 IST" name="IsolationWordTest" finished-at="2024-02-08T12:23:00 IST" duration-ms="14869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsolationWordTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:openMRS.testCases.TC_IsolationWord_004@482cd91f]" started-at="2024-02-08T12:23:00 IST" name="tearDown" finished-at="2024-02-08T12:23:01 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- openMRS.testCases.TC_IsolationWord_004 -->
+      <class name="openMRS.testCases.TC_InpatientWord_003">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:openMRS.testCases.TC_InpatientWord_003@3ec300f1]" started-at="2024-02-08T12:22:26 IST" name="setUp" finished-at="2024-02-08T12:22:27 IST" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="InpatientWordTest()[pri:2, instance:openMRS.testCases.TC_InpatientWord_003@3ec300f1]" started-at="2024-02-08T12:22:27 IST" name="InpatientWordTest" finished-at="2024-02-08T12:22:43 IST" duration-ms="16425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InpatientWordTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:openMRS.testCases.TC_InpatientWord_003@3ec300f1]" started-at="2024-02-08T12:22:43 IST" name="tearDown" finished-at="2024-02-08T12:22:44 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- openMRS.testCases.TC_InpatientWord_003 -->
+      <class name="openMRS.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:openMRS.testCases.TC_LoginTest_001@52e677af]" started-at="2024-02-08T12:21:47 IST" name="setUp" finished-at="2024-02-08T12:21:52 IST" duration-ms="4804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest()[pri:0, instance:openMRS.testCases.TC_LoginTest_001@52e677af]" started-at="2024-02-08T12:21:52 IST" name="LoginTest" finished-at="2024-02-08T12:22:01 IST" duration-ms="9023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:openMRS.testCases.TC_LoginTest_001@52e677af]" started-at="2024-02-08T12:22:01 IST" name="tearDown" finished-at="2024-02-08T12:22:01 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- openMRS.testCases.TC_LoginTest_001 -->
+    </test> <!-- OpenMRS Test -->
+  </suite> <!-- OpenMRS -->
+</testng-results>

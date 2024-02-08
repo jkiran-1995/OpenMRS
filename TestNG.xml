@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="OpenMRS">
+
+
+<listeners>
+		<listener class-name="openMRS.utilities.ExtentReportManager" />
+	</listeners>
+	
+		<test name="OpenMRS Test">
+		
+		<classes>
+			<class name="openMRS.testCases.TC_LoginTest_001" />
+			<class name="openMRS.testCases.TC_LoginDDT_002" />
+			<class name="openMRS.testCases.TC_InpatientWord_003" />
+			<class name="openMRS.testCases.TC_IsolationWord_004" />
+				
+
+		</classes>
+
+	</test>
+
+</suite>
